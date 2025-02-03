@@ -2,7 +2,7 @@ body{
     background-color: #000000;
     font-family: Arial, Verdana;
     color: #ffffff;
-    margin: 20px, 20px, 0, 20px;
+    margin: 20px 20px 0 20px;
 }
 
 h1{
@@ -18,7 +18,7 @@ h2{
 
 p{
     font-size: 24px;
-    padding: 10px, 0, 0, 10px;
+    padding: 10px 0 0 10px;
 }
 
 img{
@@ -44,16 +44,16 @@ div{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: #ffffff 2px solid;
-    border-left: #ffffff 5px solid;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
 }
 
 div.blue{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: #ffffff 5px solid;
-    border-top: #ffffff 2px solid;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
 }
 
 .blue p, .blue h2{
@@ -64,8 +64,8 @@ div.yellow{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: #ffffff 2px solid;
-    border-left: #ffffff 5px solid;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
 }
 
 .yellow p{
@@ -73,16 +73,16 @@ div.yellow{
 }
 
 div.green{
-    background-color: #00D800;
+    background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
-    border-right: #ffffff 5px solid;
-    border-top: #ffffff 2px solid;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
 }
 
 footer{
     background: linear-gradient(to bottom, #000000, #0000ff 25%, #0066ff 70%, #000000);
-    border: #ffffff 5px solid;
+    border: 5px solid #FFFFFF;
 }
 
 footer p{
